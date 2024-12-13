@@ -1,4 +1,4 @@
-TinyQBN
+TinyQBN, but it's more StoryNexusy
 =======
 
 A simple toolkit for creating filtered-card-deck stories (aka
@@ -6,7 +6,9 @@ storylets or quality-based narratives or resource narratives) with
 Twine 2 and SugarCube. Use Twine's passage tags to mark cards and
 their requirements, and a couple of simple functions and macros to
 select and display cards. Continue to use Twine links as usual
-when those are the appropriate tool.
+when those are the appropriate tool. Some more widgets to make it more
+StoryNexusy.
+*StoryNexus is property of Failbetter Games. Don't sue me.*
 
 Related Work
 ------------
