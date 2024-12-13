@@ -6,7 +6,7 @@ storylets or quality-based narratives or resource narratives) with
 Twine 2 and SugarCube. Use Twine's passage tags to mark cards and
 their requirements, and a couple of simple functions and macros to
 select and display cards. Continue to use Twine links as usual
-when those are the appropriate tool. Some more widgets to make it more
+when those are the appropriate tool.  Adding and renaming widgets to make it more
 StoryNexusy.
 *StoryNexus is property of Failbetter Games. Don't sue me.*
 
