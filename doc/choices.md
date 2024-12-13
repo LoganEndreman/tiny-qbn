@@ -4,8 +4,7 @@ Inline Choices
 Sometimes you want to offer a set of choices, and you want to
 filter them like cards, but you know those options will only ever
 be used in that one place. You *could* make a card for each
-option, and set/require a variable unique to the passage where
-they belong (hrm, I should implement `req-passage-<title>`). But
+option, and then user `req-passage-[title]. But
 if you have a fixed deck of choices it's a bit nicer to have them
 and their conditions all in one place.
 
